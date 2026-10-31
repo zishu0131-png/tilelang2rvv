@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-31",
+  "scope": "Explicit source snapshot; metadata and documentation not included in file hashes",
+  "files": [
+    {
+      "path": "backend.py",
+      "origin": "previous public snapshot 3058b804; OpenMP bypass already removed",
+      "sha256": "0cb9cb4fd0a45e71defc5ba808a78634b3c333e75ccfd57abe9a8e013e48c395",
+      "bytes": 74289
+    },
+    {
+      "path": "examples.py",
+      "origin": "previous public snapshot 3058b804; OpenMP bypass already removed",
+      "sha256": "4eab43636f1765ee7a0ab5538769582ece377c1651a46fa4d292a53bb3dd6da7",
+      "bytes": 30176
+    },
+    {
+      "path": "runner.py",
+      "origin": "previous public snapshot 3058b804; OpenMP bypass already removed",
+      "sha256": "1d2d9867a9eb6b4331c4fc108cef53f9322ed319c9b7e7e885e3214ab714425e",
+      "bytes": 3028
+    },
+    {
+      "path": "verify_demo.py",
+      "origin": "previous public snapshot 3058b804; OpenMP bypass already removed",
+      "sha256": "193a09d20a62da334dafb725d0327b2537ba4285bb4088c12feac26daf85d874",
+      "bytes": 1389
+    },
+    {
+      "path": "test_backend.py",
+      "origin": "previous public snapshot 3058b804; OpenMP bypass already removed",
+      "sha256": "99e20ce85b2c5c25a2c9443a06cd07e8ae124e32ccc99f076893d7172ec10fdc",
+      "bytes": 31412
+    },
+    {
+      "path": "test_runner.py",
+      "origin": "previous public snapshot 3058b804; OpenMP bypass already removed",
+      "sha256": "251a666366158fba56519b677ce07000bb61b84f7c3b6317d1383249c51ecacd",
+      "bytes": 1171
+    },
+    {
+      "path": "start.S",
+      "origin": "previous public snapshot 3058b804; OpenMP bypass already removed",
+      "sha256": "a0ea7fe55d3e4b1e5e0086cfd6b8c8c0f8de82d0b4143504e4c285568bd4814e",
+      "bytes": 774
+    },
+    {
+      "path": "baremetal.ld",
+      "origin": "previous public snapshot 3058b804; OpenMP bypass already removed",
+      "sha256": "f78951acd14828edc87c57094a0fd49d217f1c0487d62ea6ff28e26980387d43",
+      "bytes": 357
+    }
+  ],
+  "source_public_commit": "3058b8046098b2ff64fab26ba23a0a5f4a40fe8a"
+}
